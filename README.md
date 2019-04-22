@@ -1,5 +1,6 @@
 # Test_assignment4
 
+This application is written in Java and the tests are completed with junit5 and maven.  
 The (bank) account and creditcard have been tested with unittest, hamcrest, repeated test, dynamic and parameterized tests.
 
 
